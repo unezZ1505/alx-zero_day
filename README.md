@@ -1,1 +1,1 @@
-My first readme
+Money is weird
